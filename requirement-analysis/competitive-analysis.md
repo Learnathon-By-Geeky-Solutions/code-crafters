@@ -32,7 +32,7 @@
 
 ## ► Competitive Landscape
 
-![Competitive Analysis Graph](requirement-analysis/images/graph.png)
+![Competitive Analysis Graph](images/graph.png)
 
 
 
