@@ -1,6 +1,6 @@
 ## **Introduction**
 
-Meet Our Aspirants:
+**Meet Our Aspirants:**
 
 **1\. Rafiq (The Fresh Graduate)**
 
@@ -25,59 +25,59 @@ Despite their differences, they all share common struggles:
 
 ### **Complexity of Scholarship Applications:**
 
-* I’m trying to identify and apply for the most suitable scholarships.  
+* Identifying and applying for the most suitable scholarships.  
 * But with over 500+ scholarships available globally, varying criteria, and strict deadlines, it’s overwhelming to keep track of the opportunities.  
 * Because there are no centralized tools or guidance to help manage the applications and deadlines.  
-* Which makes me feel stressed and uncertain, induced by missed deadlines and the complexity of finding the right scholarships.
+* Which makes one feel stressed and uncertain, induced by missed deadlines and the complexity of finding the right scholarships.
 
 ### **Standardized Testing Requirements:**
 
-* I need to prepare for standardized tests like IELTS, TOEFL, GRE, and GMAT, which are prerequisites for most scholarships and programs.  
-* But preparing for these tests while managing application timelines is overwhelming.  
+* One needs to prepare for standardized tests like IELTS, TOEFL, GRE, and GMAT, which are prerequisites for most scholarships and programs.  
+* However, preparing for these tests while managing application timelines is overwhelming.  
 * Because there’s no centralized platform to guide test preparations alongside the application process.  
-* Which makes me feel unprepared, anxious, and prone to missing key testing deadlines.
+* Which makes one feel unprepared, anxious, and prone to missing key testing deadlines.
 
 ### **Lack of Guidance on University Selection:**
 
-* I’m trying to select a university and program that aligns with my academic interests and career goals.  
-* But with over 2,000 universities worldwide, I’m struggling to narrow down my options and assess their suitability.  
-* Because I lack tools and resources to compare institutions, rankings, and program details.  
-* Which makes me feel lost and unsure about my decisions, resulting in poor application quality.
+* Trying to select a university and program that aligns with one’s academic interests and career goals.  
+* But with over 2,000 universities worldwide, it is a struggle to narrow down the options and assess their suitability.  
+* Because of the lack of tools and resources to compare institutions, rankings, and program details.  
+* Which makes one feel lost and unsure about their decisions, resulting in poor application quality.
 
 ### **Challenges in Showcasing Achievements:**
 
-* I’m trying to track and showcase my academic achievements, extracurricular activities, and volunteer work for scholarship applications.  
-* But without an organized platform, I have to manually compile and organize these achievements, making it difficult to present them effectively.  
+* Tracking and showcasing academic achievements, extracurricular activities, and volunteer work for scholarship applications.  
+* But without an organized platform, the achievements have to be manually compiled and organized, making it difficult to present them effectively.  
 * Because there are no integrated tools to streamline this process.  
-* Which makes me feel stressed and uncertain, induced by incomplete or disorganized applications.
+* Which makes one feel stressed and uncertain, induced by incomplete or disorganized applications.
 
 ### **Inadequate Support for Statement of Purpose (SOP) Writing:**
 
-* I’m trying to write a compelling SOP to highlight my skills, goals, and motivations.  
-* But I struggle with structuring and presenting my story effectively.  
-* Because I don’t have access to personalized templates, feedback, or editing services.  
-* Which makes me feel anxious and less confident about the quality of my application.
+* Writing a compelling SOP to highlight my skills, goals, and motivations.  
+* But the struggle with structuring and presenting the story effectively.  
+* Because of no access to personalized templates, feedback, or editing services.  
+* Which makes one feel anxious and less confident about the quality of my application.
 
 ### **Disorganization and Time Management Challenges:**
 
-* I’m trying to manage deadlines, documents, and submissions efficiently.  
-* But the scattered nature of the process makes it hard to keep track of what I’ve done and what’s pending.  
+* Managing deadlines, documents, and submissions efficiently.  
+* But the scattered nature of the process makes it hard to keep track of what has to be done and what’s pending.  
 * Because there’s no centralized system to monitor progress and deadlines.  
-* Which makes me feel overwhelmed and prone to missing important tasks.
+* Which makes one feel overwhelmed and prone to missing important tasks.
 
 ### **Limited Access to Financial Aid Information:**
 
-* I’m trying to find grants, assistantships, and student loans to fund my studies abroad.  
+* Trying to find grants, assistantships, and student loans to fund my studies abroad.  
 * But financial aid options are not clearly laid out or tailored to my needs.  
 * Because the available information is scattered and difficult to verify.  
-* Which makes me feel discouraged and uncertain about affording my education.
+* Which makes one feel discouraged and uncertain about affording my education.
 
 ### **Automation Gap:**
 
-* I’m trying to simplify the application process by automating repetitive tasks like filling out forms and submitting documents.  
+* Simplifying the application process by automating repetitive tasks like filling out forms and submitting documents.  
 * But there’s no platform to assist with these tasks and send timely reminders.  
 * Because existing solutions are fragmented and lack comprehensive automation features.  
-* Which makes me feel frustrated and more likely to delay or abandon my application process.
+* Which makes one feel frustrated and more likely to delay or abandon my application process.
 
 ## **Solution**
 
