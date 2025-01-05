@@ -1,0 +1,1 @@
+![Affinity Diagram](images/affinity%20diagram.jpg)
