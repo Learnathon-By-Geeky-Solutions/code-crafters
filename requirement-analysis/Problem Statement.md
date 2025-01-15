@@ -19,10 +19,6 @@
 * Feels stagnant in his current job and wants to pivot his career through certifications or advanced education abroad.  
 * Ambitious yet unsure about how to balance work, finances, and deadlines to secure opportunities.
 
-<!--
-move to personas page
--->
-
 Despite their differences, they all share common struggles:
 
 ## **Problem Statement**
@@ -33,17 +29,6 @@ Despite their differences, they all share common struggles:
 * But with over 500+ scholarships available globally, varying criteria, and strict deadlines, it’s overwhelming to keep track of the opportunities.  
 * Because there are no centralized tools or guidance to help manage the applications and deadlines.  
 * Which makes one feel stressed and uncertain, induced by missed deadlines and the complexity of finding the right scholarships.
-<!---
-TRACKING...
-web scrapping
-list popular universities
-fine tuned google search
-data transform using AI agent to a particular idea
-RAG AI model
-****unified model for scholarschips**** (list and identify all the fields)
-tracking the scholarships and properly updating them
-scrap specialized websites that provides scholarship info
--->
 
 ### **Standardized Testing Requirements:**
 
@@ -52,26 +37,12 @@ scrap specialized websites that provides scholarship info
 * Because there’s no centralized platform to guide test preparations alongside the application process.  
 * Which makes one feel unprepared, anxious, and prone to missing key testing deadlines.
 
-<!---
-preparation materials -> outsourced -> curated resources -> formatted for particulars (for demo, IELTS contents)
-mock tests -> tracking -> ai generated questions (RAG, existing models) -> back propagate to resources (add hand crafted tests as references)
-course selling, affiliate marketing -> money
-list out existing open source models for this task
--->
-
 ### **Lack of Guidance on University Selection:**
 
 * Trying to select a university and program that aligns with one’s academic interests and career goals.  
 * But with over 2,000 universities worldwide, it is a struggle to narrow down the options and assess their suitability.  
 * Because of the lack of tools and resources to compare institutions, rankings, and program details.  
 * Which makes one feel lost and unsure about their decisions, resulting in poor application quality.
-<!--
-list out all the constraints for this problem as input (money, program preference, test grades, program value) 
-constraint modeling result generation
-good to have feature: match the achivements against university requirements
-convert university requirements to measurable metrics/goals
-track and find out how much of that goal is fulfilled
--->
 
 ### **Challenges in Showcasing Achievements:**
 
@@ -79,9 +50,6 @@ track and find out how much of that goal is fulfilled
 * But without an organized platform, the achievements have to be manually compiled and organized, making it difficult to present them effectively.  
 * Because there are no integrated tools to streamline this process.  
 * Which makes one feel stressed and uncertain, induced by incomplete or disorganized applications.
-<!--
-same problem
--->
 
 ### **Inadequate Support for Statement of Purpose (SOP) Writing:**
 
@@ -89,26 +57,6 @@ same problem
 * But the struggle with structuring and presenting the story effectively.  
 * Because of no access to personalized templates, feedback, or editing services.  
 * Which makes one feel anxious and less confident about the quality of my application.
-<!--
-use the constraint model problem metrics
-cv, achievements,
-if all information is given then generate SOP story from that
-
-if nothing or partial is there (should be premium feature)
-questionnare using bot using relevant questions
-and generate a story
-
-how to measure quality of the generated/manual SOP
-
-find out the all the features of a good SOP manually and use it in the AI algorithm
-and find out how much of the features are there.
-
-paraphrasing, grammar...
-**5\. Cultural Differences in Application Processes:**
-
-* **Challenge**: Different universities and scholarship bodies have varying requirements and cultural expectations for applications. Adapting to these nuances may prove difficult for a universal platform.  
-* **Solution**: Customize scholarship and university data based on region-specific application rules and provide localized SOP writing tips and requirements for different countries.
--->
 
 ### **Disorganization and Time Management Challenges:**
 
@@ -117,30 +65,12 @@ paraphrasing, grammar...
 * Because there’s no centralized system to monitor progress and deadlines.  
 * Which makes one feel overwhelmed and prone to missing important tasks.
 
-<!--
-think about the UI/UX design
-provide and checklist and track against it
-advance tracking using historical timeline
-preapare a roadmap for him
-how it is generated (generate the roadmap around fixed points, exams, application deadline)
--->
-
-
 ### **Limited Access to Financial Aid Information:**
 
 * Trying to find grants, assistantships, and student loans to fund my studies abroad.  
 * But financial aid options are not clearly laid out or tailored to my needs.  
-* Because the available information is scattered and difficult to verify.
+* Because the available information is scattered and difficult to verify.  
 * Which makes one feel discouraged and uncertain about affording my education.
-
-<!--
-helps to get financial announcement
-  - how to get unofficial help using past data and preparing documents
-  gives out a idea on how to earn
-  and the related expenditure or living costs
-  and advice on good starting points on earning money 
-student loan advertisement (geographicically locked)
--->
 
 ### **Automation Gap:**
 
@@ -148,29 +78,6 @@ student loan advertisement (geographicically locked)
 * But there’s no platform to assist with these tasks and send timely reminders.  
 * Because existing solutions are fragmented and lack comprehensive automation features.  
 * Which makes one feel frustrated and more likely to delay or abandon my application process.
-
-### **Professor:**
-<!--
-- cold mail to matched professors limited upto 200, suggest professors matched by criterias
-- show student profiles to professors, when professors are onboard
--->
-
-**6\. Language Barriers:**
-
-* **Challenge**: Many students in Bangladesh may not be proficient in English, the primary language for many scholarship applications, limiting their ability to effectively use the platform.  
-* **Solution**: Offer multilingual support, including Bengali, to ensure all students can understand the platform and write applications in their native language before translating them into English.
-<!--
-google auto translation
---> 
-
-**3\. Internet Accessibility and Infrastructure:**
-
-* **Challenge**: Limited internet access in rural or underserved areas of Bangladesh may hinder students’ ability to use the platform effectively.  
-* **Solution**: Optimize the platform for low bandwidth and offer offline functionality where students can download forms, templates, and guides to work offline, with synchronization when the internet is available.
-<!--
-which features will be accessible without internet
--->
-
 
 ## **Solution**
 
@@ -187,35 +94,57 @@ Our platform addresses these challenges by:
 
 With our platform, students and professionals can focus on achieving their dreams without the stress of navigating a fragmented and complex application process.
 
-Problem Statement
-1. Sourcing Reliable Scholarship and Program Data
-The education landscape is dynamic, with new scholarships and programs being introduced regularly. However, sourcing this data from reliable and updated sources is a significant challenge. Many scholarships and university programs do not have centralized repositories, forcing students to scour multiple websites and platforms. This leads to missed opportunities and incomplete information.
+**Potential Challenges :**
 
-2. Frequent Updates to Application Requirements
-University and scholarship requirements often change without notice, such as eligibility criteria, required documents, or deadlines. Staying updated with these changes is a daunting task, especially for students who don’t have the time or expertise to monitor multiple platforms simultaneously.
+**1\. Data Privacy and Security Concerns:**
 
-3. Lack of a Unified System for Financial Aid Information
-Financial aid opportunities, including grants, loans, and assistantships, are scattered across different websites and portals. Students often have to search manually and piece together information, which is time-consuming and prone to errors.
+* **Challenge**: Collecting sensitive student data such as personal information, academic records, and financial details requires robust security measures to protect against cyber threats.  
+* **Solution**: Implement end-to-end encryption, secure databases, and comply with data protection regulations to ensure user data is safe and confidential.
 
-4. Managing Large Volumes of User-Generated Data
-Our platform will handle data like academic records, extracurricular achievements, test scores, and personal statements from thousands of users. Without a robust data management system, it becomes difficult to ensure accuracy, prevent duplication, and provide personalized recommendations.
+**2\. Tech Literacy Barriers:**
 
-5. Automating Complex Processes
-Students have to repeatedly fill out similar forms for different applications, such as university admissions, scholarships, and standardized tests. These repetitive tasks consume a lot of time and often result in errors. Automating such processes is technically challenging but necessary for an efficient user experience.
+* **Challenge**: Many Bangladeshi students, especially from rural areas, may have limited access to technology and lack the skills to navigate sophisticated platforms.  
+* **Solution**: Design a simple, intuitive user interface and offer educational resources to help students with limited tech knowledge. Provide a mobile version of the platform to enhance accessibility.
 
-6. Providing Up-to-Date Resources for Standardized Test Preparation
-Preparing for exams like IELTS, GRE, or GMAT requires access to the latest resources, practice tests, and tips. Without regular updates, these materials can become outdated, putting students at a disadvantage.
+**3\. Internet Accessibility and Infrastructure:**
 
-7. Creating Multilingual and Accessible Content
-Many students in Bangladesh, especially from rural areas, may not be fluent in English or tech-savvy. Providing content in Bengali and ensuring the platform is intuitive for all users is a critical challenge.
+* **Challenge**: Limited internet access in rural or underserved areas of Bangladesh may hinder students’ ability to use the platform effectively.  
+* **Solution**: Optimize the platform for low bandwidth and offer offline functionality where students can download forms, templates, and guides to work offline, with synchronization when the internet is available.
 
-8. Ensuring Data Privacy and Security
-Collecting sensitive information such as academic records, financial details, and personal documents poses security risks. Any breach or misuse of data can result in loss of trust and legal liabilities.
+**4\. Scalability of Data and Content:**
 
-9. Scalability of the Platform
-As the platform grows, scaling its infrastructure to support more users and handle a large volume of data without compromising speed or performance is a major challenge.
+* **Challenge**: As the platform grows, managing an increasing volume of scholarship databases, university programs, professors, and user-generated content could become cumbersome.  
+* **Solution**: Use cloud-based infrastructure that can scale as demand grows and employ machine learning models to filter and recommend the most relevant information.
 
-10. Building Credibility and Trust Among Users
-Students and parents are often skeptical of new platforms, especially when it involves providing sensitive information. Establishing credibility through reliable partnerships and consistent delivery of value is crucial for adoption.
+**5\. Cultural Differences in Application Processes:**
+
+* **Challenge**: Different universities and scholarship bodies have varying requirements and cultural expectations for applications. Adapting to these nuances may prove difficult for a universal platform.  
+* **Solution**: Customize scholarship and university data based on region-specific application rules and provide localized SOP writing tips and requirements for different countries.
+
+**6\. Language Barriers:**
+
+* **Challenge**: Many students in Bangladesh may not be proficient in English, the primary language for many scholarship applications, limiting their ability to effectively use the platform.  
+* **Solution**: Offer multilingual support, including Bengali, to ensure all students can understand the platform and write applications in their native language before translating them into English.
+
+**7\. Competition and Market Adoption:**
+
+* **Challenge**: The education technology space is growing, and there could be resistance from students who are already using other methods or platforms for their scholarship applications.  
+* **Solution**: Differentiate your platform by offering unique features such as SOP writing assistance, automatic form filling, and a centralized achievement portfolio that no other platform currently provides.
+
+**8\. Resource Constraints and Funding:**
+
+* **Challenge**: Securing funding for continuous development, marketing, and scaling of the platform may be difficult, especially in the initial stages.  
+* **Solution**: Seek partnerships with educational institutions, NGOs, and governmental bodies to fund the platform's development. Additionally, explore social entrepreneurship models where students pay a small fee for premium features.
+
+**9\. Legal and Regulatory Compliance:**
+
+* **Challenge**: Adhering to local regulations and international standards concerning student data, scholarship distribution, and financial aid can be complex, especially if you're dealing with international organizations.  
+* **Solution**: Collaborate with legal experts to ensure the platform complies with local and international laws concerning data protection, financial aid distribution, and education services.
+
+**10\. Continuous Database Updates:**
+
+* **Challenge**: Scholarships, university programs, and financial aid options frequently change, making it challenging to maintain an up-to-date database.  
+* **Solution**: Build partnerships with universities, scholarship providers, and international organizations to get real-time updates on available opportunities. Implement automated systems that track these changes and notify students accordingly
+
 
   
